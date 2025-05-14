@@ -1,0 +1,9 @@
+Date 8/11/11 
+AHI - 13.3 
+Usage - 2 hrs. 36 mins. 30 secs. 
+Hypopnea Index - 4.0
+Obstructive Apnea Index - 6.6 
+Clear Airway Apnea Index - 2.7 
+Average Breath Rate - 10.4 
+Average % of the night in PB - 0.0 
+Average Leak LPM 12.0 
